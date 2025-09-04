@@ -6,7 +6,7 @@ const Images = () => {
      <div className="flex justify-center h-full bg-gray-100 dark:bg-neutral-900">
               <video
                 className="w-full h-full object-cover rounded-lg"
-                src="/video1.mp4"
+                src="https://drive.google.com/uc?export=download&id=1gjKV_gjmRP5v-KPhjiZHlyeSIADTelnS"
                 autoPlay
                 loop
                 muted
