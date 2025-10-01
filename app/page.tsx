@@ -1,7 +1,8 @@
-import CardSlider from '@/components/CardSlider'
+
 import Images from '@/components/Images'
 import Items from '@/components/Items'
 import NavBar from '@/components/NavBar'
+import Homepage from '@/components/Homepage'
 
 import React from 'react'
 
@@ -10,7 +11,7 @@ const page = () => {
     <div>
       <NavBar/>
       <Images/>
-      <CardSlider/>
+      <Homepage/>
       <Items/>
     </div>
   )
